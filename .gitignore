@@ -1,0 +1,12 @@
+# Игнорировать все файлы по умолчанию (в репозиторий загружаются только README.md и promo.jpg)
+*
+
+# Разрешённые файлы
+!README.md
+!promo.jpg
+!icons/
+!icons/promo.jpg
+!.gitignore
+!.agents/
+!.agents/**
+
